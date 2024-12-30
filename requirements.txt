@@ -1,0 +1,7 @@
+pandas
+numpy
+nltk
+langchain
+chromadb
+streamlit
+google-generativeai
