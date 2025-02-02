@@ -115,6 +115,6 @@ This project is licensed under the MIT License.
 
 For any issues or suggestions, open an [issue](https://github.com/Ch-Chand/CaseMate-Legal-Aid-Assistant/issues) or reach out:  
 
-📧 **Your Email Here**  
+📧 **shahzadabbas3811@gmail.com**  
 🔗 [GitHub Repo](https://github.com/Ch-Chand/CaseMate-Legal-Aid-Assistant)  
 ```
